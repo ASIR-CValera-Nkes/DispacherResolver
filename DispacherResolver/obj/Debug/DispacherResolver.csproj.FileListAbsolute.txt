@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\DispacherResolver\DispacherResolver\bin\Debug\DispacherResolver.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\DispacherResolver\DispacherResolver\bin\Debug\DispacherResolver.exe
+c:\users\usuario\documents\visual studio 2015\Projects\DispacherResolver\DispacherResolver\bin\Debug\DispacherResolver.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\DispacherResolver\DispacherResolver\obj\Debug\DispacherResolver.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\DispacherResolver\DispacherResolver\obj\Debug\DispacherResolver.exe
+c:\users\usuario\documents\visual studio 2015\Projects\DispacherResolver\DispacherResolver\obj\Debug\DispacherResolver.pdb
